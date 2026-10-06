@@ -327,7 +327,6 @@ section[id] { scroll-margin-top: 70px; }
 .card:hover { box-shadow: 0 30px 60px -30px rgba(20, 33, 61, .35); }
 .card--wide { grid-column: span 2; }
 .card--dark { background: var(--navy); color: var(--on-dark); }
-.card--dark > p { color: var(--on-dark-2); }
 .card--dark strong { color: var(--on-dark); }
 .card.is-hidden { display: none; }
 .card__top { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; margin-bottom: 26px; }
